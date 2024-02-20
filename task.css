@@ -1,0 +1,296 @@
+body{
+    background-color: rgb(255, 255, 255);
+}/*
+.assignment1 div{
+    margin: 20px;
+    width: 500px;
+    padding: 20px;
+    background-color: rgb(138, 48, 226);
+    background-color: hsl(270, 93%, 55%);
+    background-color: blueviolet;
+    background-color: #9420ff;
+   
+}
+.assignment1 div.assign-1-shape-2{
+    background-color: rgba(138, 48, 226,50%);
+    margin-top: 20px;
+}
+.assignment1 div.assign-1-shape-3{
+    background-color: rgba(138, 48, 226,0.1);
+}
+.assignment2 {
+    display: flex;
+}
+.assignment2 div{
+    height: 400px;
+    width: 400px;
+    margin: 20px;
+       background-image: url(./image/download.jpeg);
+    background-color: rgb(165, 165, 224);
+}
+.assignment2 div.assign-2-shape-1{
+    background-repeat: no-repeat;
+}
+.assignment2 div.assign-2-shape-2{
+    background-repeat: repeat-x;
+}
+.assignment2 div.assign-2-shape-3{
+    background-repeat: repeat-y;
+}
+.assignment2 div.assign-2-shape-4{
+background-repeat: repeat;
+}
+.assignment3{
+    display: flex;
+}
+.assignment3 div{
+    height: 400px;
+    width: 400px;
+    margin: 20px;
+       background-image: url(./image/download.jpeg);
+    background-color: rgb(165, 165, 224);
+}
+.assignment3 div.assign-3-shape-1{
+    background-repeat: no-repeat;
+}
+.assignment3 div.assign-3-shape-2{
+    background-repeat: repeat-x;
+}
+.assignment3 div.assign-3-shape-3{
+    background-repeat: repeat-y;
+}
+.assignment3 div.assign-3-shape-4{
+background-repeat: repeat;
+}
+.assignment4{
+   display: flex;
+}
+.assignment4 div{
+    height: 400px;
+    width: 400px;
+    margin: 20px;
+       background-image: url(./image/pattern-1896113_960_720.jpg);
+       background-color: black;
+
+}
+.assignment4 div.assign-4-shape-1{
+    background-size: 80%; 
+    background-repeat: no-repeat;
+    background-position: left top; 
+ 
+  
+}
+.assignment4 div.assign-4-shape-2{
+   
+   
+    background-repeat: no-repeat;
+    background-position: right; 
+    background-size: 250px 400px ; 
+ }
+ .assignment4 div.assign-4-shape-3{
+   
+   
+    background-repeat: no-repeat;
+    background-position: bottom; 
+    background-size: 400px 300px ; 
+ }
+
+ .assignment4 div.assign-4-shape-4{
+   
+   
+    background-repeat: no-repeat;
+    background-position: bottom right; 
+    background-size: 200px 200px; 
+ }*/
+/*
+ .assignment5 div{
+     height: 300px;
+  
+     margin: 20px;
+       
+        background-color: black;
+        display: inline-block;
+ line-height: 3;
+ font-size: 100px;
+ color: aliceblue;
+ padding: 20px;
+ }
+ 
+ .assignment5 div.assign-5-shape-1{
+    border:  5px solid red ;
+ }
+ .assignment5 div.assign-5-shape-2{
+   border-width: 5px;
+   border-style: solid;
+   border-color: red green ;
+ }
+ .assignment5 div.assign-5-shape-3{
+    border-width: 5px;
+    border-style: dashed;
+    border-color: red green blue yellow ;
+  }
+
+  .paragraphs{
+    background-color: black;
+    padding: 20px;
+    width: fit-content;
+    
+  }
+  .paragraphs div.element{
+    width: 400px;
+    height: fit-content;
+   
+  
+    background-color: rgb(133, 131, 128);
+   
+    padding: 15px;
+    font-size: xx-large;
+    margin: 40px;
+
+}
+.paragraphs .element-1{
+    border-left: 6px solid rgb(66, 25, 229);
+    visibility: hidden;
+    
+  }
+.paragraphs .element-2{
+  border-left: 6px solid rgb(240, 0, 0);
+}
+.paragraphs .element-3{
+    border-left: 6px solid rgb(78, 33, 33);
+  }
+
+body{
+    font-size: larger;
+}
+.child span.title{
+    color: rgb(196, 37, 37);
+}
+.parent span.title{
+ color: blue;
+}
+.parent p{
+    color: aquamarine;
+}
+
+body div.title{
+  color: green;
+}
+.titles div{
+    background-color: brown;
+    max-width: 400px;
+    height: 60px;
+    overflow: hidden;
+    
+}
+.titles div{
+    margin: 10px;
+}*/
+.text{
+    font-size: xx-large;
+    color: black;
+    text-shadow: 1px 1px 0 red,2px 2px 0 blue,3px 3px 0 green;
+   
+
+}
+.text1 .one{
+  text-transform: uppercase;
+}
+.text1 .two{
+    text-transform: capitalize;
+  }
+
+  .text2{
+    margin: 20px;
+    
+    line-height: 2;
+    width: 400px;
+   max-height: 40px;
+    background-color: #777;
+   overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  a{
+    color: green;
+    text-align: center;
+    background-color: aquamarine;
+    border-bottom: 4px solid green;
+    text-decoration: none;
+    font-size: xx-large;
+  }
+
+.borders{
+    background-color: aliceblue;
+    border: 2px solid rgb(167, 52, 10);
+    width: 500px;
+    padding: 30px;
+    margin: 20px;
+}
+.borders p {
+    background-color: #777;
+    border: 3px solid rgb(244, 100, 47);
+    padding: 30px;
+}
+ 
+.one1{
+    font-family: sans-serif;
+    font-weight: 300
+}
+.one2{
+    font-family:"cairo","sans-serif";
+    font-weight: 700;
+}
+.opacity{
+    background-color:#ffffff ;
+}
+.opacity .one1{
+    background-color:#777 ;
+    opacity: 50%;
+}
+.opacity .one2{
+    background-color:#777 ;
+    opacity: 90%;
+}
+.position{
+    position: relative;
+}
+.position div{
+position: absolute;
+padding: 10px;
+width: 100px;
+height: 100px;
+}
+.position div.red{
+ background-color: rgb(9, 138, 244);
+ 
+
+
+}
+.position div.blue{
+    background-color: rgb(27, 83, 168);
+  left: 10px;
+  top: 10px;
+  
+    
+   }
+   .position div.green{
+    background-color: rgb(5, 37, 132);
+   left: 20px;
+ top: 20px;
+   
+   }
+   .edges{
+    position: relative;
+    margin: auto;
+    background-color:#777 ;
+    width: 400px;
+    padding: 20px;
+   }
+   .edges span{
+   
+    background-color: aliceblue;
+    padding: 10px;
+ 
+   width: 30px;
+    
+   }
